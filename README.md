@@ -8,7 +8,7 @@ This project leverages **Machine Learning**—specifically **Logistic Regression
 ## 📊 Dataset
 - **Source:** Pima Indians Diabetes Dataset  
 - **Link:** [UCI Repository](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv)
-- **Features:**
+**Features:**
 - Pregnancies
 - Glucose
 - BloodPressure
