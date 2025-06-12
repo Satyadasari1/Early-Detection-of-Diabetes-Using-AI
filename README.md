@@ -9,16 +9,15 @@ This project leverages **Machine Learning**—specifically **Logistic Regression
 - **Source:** Pima Indians Diabetes Dataset  
 - **Link:** [UCI Repository](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv)
 - **Features:**
-  - Pregnancies
-  - Glucose
-  - BloodPressure
-  - SkinThickness
-  - Insulin
-  - BMI
-  - DiabetesPedigreeFunction
-  - Age
-  - Outcome (0 = Non-diabetic, 1 = Diabetic)
-
+- Pregnancies
+- Glucose
+- BloodPressure
+- SkinThickness
+- Insulin
+- BMI
+- DiabetesPedigreeFunction
+- Age
+- Outcome (0 = Non-diabetic, 1 = Diabetic)
 ---
 
 ## ⚙️ Technologies & Tools Used
