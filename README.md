@@ -68,7 +68,7 @@ This project leverages **Machine Learning**—specifically **Logistic Regression
 
 **Clone the Repository**
 ```
-git clone https://github.com/Satyadasari1/early-diabetes-prediction.git
+git clone https://github.com/Satyadasari1/Early-Detection-of-Diabetes-Using-AI.git
 cd early-diabetes-prediction
 ```
 
