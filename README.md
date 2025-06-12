@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 **Run the Script**
 ```
-python diabetes_prediction.py
+python Early Detection of Diabetes Using AI.py
 ```
 
 **Model Output**
