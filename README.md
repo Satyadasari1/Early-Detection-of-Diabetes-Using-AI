@@ -49,7 +49,7 @@ This project leverages **Machine Learning**—specifically **Logistic Regression
 - Filled missing values using the median
 
 **Evaluation:**
-- Accuracy: ~77%
+- Accuracy: ~75%
 - Confusion Matrix
 - Classification Report
 
