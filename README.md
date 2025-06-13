@@ -68,7 +68,7 @@ This project leverages **Machine Learning**—specifically **Logistic Regression
 
 **Clone the Repository**
 ```
-git clone https://github.com/Satyadasari1/Early-Detection-of-Diabetes-Using-AI.git
+git clone https://github.com/Satyadasari1/Early-Detection-of-Diabetes-Using-Machine-Learning.git
 cd early-diabetes-prediction
 ```
 
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 **Run the Script**
 ```
-python Early Detection of Diabetes Using AI.py
+python Early-Detection-of-Diabetes-Using-Machine-Learning.py
 ```
 
 **Model Output**
